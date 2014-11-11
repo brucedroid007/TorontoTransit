@@ -1,7 +1,7 @@
 // Copyright 2014 Grzegorz Wlodarek
 // Distributed under the terms of the GNU General Public License.
 //
-// This file is part of Assignment 1, CSC148, Winter 2014.
+// This file is part of Toronto Transit.
 //
 // This is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
